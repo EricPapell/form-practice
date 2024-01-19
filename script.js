@@ -54,6 +54,6 @@ btn.addEventListener('click', function(e){
         wrong()
         background='yellowgreen'
         e.target.style.backgroundColor=background
-        setTimeout(init, 2000)
+        setTimeout(init, 4000)
     }
 })
