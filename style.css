@@ -27,6 +27,9 @@ h1{
 input, button{
     margin-bottom: 1rem;
 }
+input{
+    padding: 1rem;
+}
 button{
     background-color: rgb(223, 212, 63);
     cursor: pointer;
