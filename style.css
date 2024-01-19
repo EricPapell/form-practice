@@ -29,6 +29,7 @@ button{
     background-color: yellowgreen;
     cursor: pointer;
     transition: all 0.2s linear;
+    font-size: 3rem;
 }
 button:hover{
     background: rgb(171, 255, 3);
