@@ -10,13 +10,14 @@ main{
 
 }
 div{
+    margin: 3rem;
     position: absolute;
 
    
 }
 h1{
     text-align: center;
-    color: blue;
+    color: rgb(0, 0, 0);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .form{
@@ -27,7 +28,7 @@ input, button{
     margin-bottom: 1rem;
 }
 button{
-    background-color: yellowgreen;
+    background-color: rgb(223, 212, 63);
     cursor: pointer;
     transition: all 0.2s linear;
     font-size: 1.5rem;
